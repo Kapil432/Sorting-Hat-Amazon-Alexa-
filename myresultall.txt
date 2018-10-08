@@ -1,0 +1,1 @@
+['gryffindor', 0.53689736, 'ravenclaw', 0.23225375, 'hufflepuff', 0.124496035, 'slytherin', 0.10635286]
